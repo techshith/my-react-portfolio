@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.5fae5a96.css",
+    "main.js": "/my-react-portfolio/static/js/main.3a802b12.js",
+    "static/media/Veekshith.png": "/my-react-portfolio/static/media/Veekshith.f3a441cdf5b8ecb9c9d9.png",
+    "static/media/project-1.jpg": "/my-react-portfolio/static/media/project-1.ef941fbdd953176ba468.jpg",
+    "static/media/project-2.jpg": "/my-react-portfolio/static/media/project-2.848a63d853fea7114f27.jpg",
+    "static/media/project-3.jpg": "/my-react-portfolio/static/media/project-3.d40ef9bdb47609537921.jpg",
+    "static/media/project-4.jpg": "/my-react-portfolio/static/media/project-4.cee9d1175731475a650f.jpg",
+    "static/media/ub-logo.png": "/my-react-portfolio/static/media/ub-logo.6e24518a1cf2484aaee3.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.5fae5a96.css.map": "/my-react-portfolio/static/css/main.5fae5a96.css.map",
+    "main.3a802b12.js.map": "/my-react-portfolio/static/js/main.3a802b12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fae5a96.css",
+    "static/js/main.3a802b12.js"
+  ]
+}
