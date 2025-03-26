@@ -1,9 +1,9 @@
 {
-  "name": "my-project",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://techshith.github.io/my-react-portfolio",
+  "homepage": "https://techshith.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
